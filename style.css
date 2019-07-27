@@ -1,0 +1,35 @@
+
+header {
+  background-color: #5ced9b;
+}
+header .row {
+  display: block;
+  align-items: center;
+  background-color: #5ced9b;
+}
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+  vertical-align: bottom;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
+.col-sm-4 {
+  margin: 8px 200px 8px 8px;
+}
+.col-md-6 {
+  margin: 8px 8px 8px 200px;
+}
+
+footer {
+  text-align: center;
+}
